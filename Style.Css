@@ -1,0 +1,10 @@
+Footer{
+    Display:Flex;
+    align-items:center;
+    justify-content:center;
+    background-color:var(--primary-color);
+    Color:Var(--Bg-color);
+}
+
+
+
